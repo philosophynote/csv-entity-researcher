@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "zsh(find:*)",
+      "zsh(ls:*)"
+    ],
+    "deny": []
+  }
+}
