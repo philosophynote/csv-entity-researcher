@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.eggs
+
+# Virtual environments
+venv/
+ENV/
+.env
+.env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+
+# IDE specific files
+.idea/
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Ignore lock files
+*.lock
+
+# Ignore CSV files
+*.csv
