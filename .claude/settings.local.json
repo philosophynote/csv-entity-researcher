@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "zsh(find:*)",
-      "zsh(ls:*)"
+      "zsh(ls:*)",
+      "Bash(uv init:*)",
+      "Bash(uv add:*)",
+      "WebFetch(domain:platform.openai.com)"
     ],
     "deny": []
   }
